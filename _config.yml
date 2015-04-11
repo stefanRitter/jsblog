@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            new blog
+tagline:          product ninja
+url:              http://comingsoon.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Stefan Ritter
+  url:            http://stefanritter.com
+  email:          stefan@stefanritter.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/stefanRitter/newblog
