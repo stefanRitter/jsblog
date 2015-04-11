@@ -7,7 +7,7 @@ title:            new blog
 tagline:          product ninja
 url:              http://comingsoon.com
 paginate:         1
-baseurl:          /newpost/
+baseurl:          /
 author:
   name:           Stefan Ritter
   url:            http://stefanritter.com
