@@ -12,6 +12,14 @@ based on [poole](http://getpoole.com/)
 - <https://twitter.com/stefanritter>
 
 
+## Install and run
+
+```bash
+$ bundle install
+$ bundle exec jekyll serve
+```
+
+
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
