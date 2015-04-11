@@ -17,3 +17,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/stefanRitter/jspadawan.com
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
