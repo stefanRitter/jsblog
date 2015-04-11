@@ -3,9 +3,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            new blog
-tagline:          product ninja
-url:              http://comingsoon.com
+title:            JS Padawan
+tagline:          A JavaScript Masterclass
+url:              http://jspadawan.com
 paginate:         1
 baseurl:          /
 author:
@@ -16,4 +16,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/stefanRitter/newblog
+  repo:           https://github.com/stefanRitter/jspadawan.com
