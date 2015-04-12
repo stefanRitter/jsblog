@@ -8,9 +8,14 @@ This is the first post in a series on building a beautifully simple chat app wit
 
 The app will have 3 main views:
 
-![image](https://31.media.tumblr.com/442cf736abd3c4da01acc89c6fd981d3/tumblr_inline_n3ix07pKX01s75cli.png)login view
-![image](https://31.media.tumblr.com/b411ec03e55544976212c6eaae42f276/tumblr_inline_n3k4baA3VE1s75cli.png)conversations view (wait 3 seconds for the server to ping you)
-![image](https://31.media.tumblr.com/55f6d3e2dd164ef96cc3c30cd125ad80/tumblr_inline_n3k4bs1TBU1s75cli.png)chat view
+<img src="/public/img/flightjs1.png" alt="login view" style="width:100%;max-width:500px;" />
+login view
+
+<img src="/public/img/flightjs2.png" alt="conversation view" style="width:100%;max-width:500px;" />
+conversations view (wait 3 seconds for the server to ping you)
+
+<img src="/public/img/flightjs3.png" alt="chat view" style="width:100%;max-width:500px;" />
+chat view
 
 Check out my previous story to [get started with Flight](https://medium.com/@stefanritter/a-flight-js-hello-world-97fc4ae3072d). In these posts we will take Flight one extra passenger at a time. At the end of this tutorial I hope to have talked you through how to create this application with reusable Flight components on the front-end.
 
@@ -38,9 +43,8 @@ Part 1:
 *   writing**_ data components_**
 *   _**spying on jQuery.ajax**__&nbsp;**promises**_ to test data components
 
-## Part 1
 
-## **Bower, Grunt/Gulp, &amp; Yeoman&nbsp;**
+## Bower, Grunt/Gulp, &amp; Yeoman
 
 First let’s set up our productivity &amp; workflow tools: Bower, Grunt and Yeoman. You’re going to need node &amp; npm installed for this, so make sure to visit [nodejs.org](http://nodejs.org/) and follow their installation instructions, if you haven’t got it yet. You will need super user (sudo) rights if you haven’t configured your permissions/directories ([checkout this article for more on that](http://stackoverflow.com/questions/18212175/npm-yo-keeps-asking-for-sudo-permission) and [this discussion if you’re on OSX](https://github.com/npm/npm/issues/3139)).
 
