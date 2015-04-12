@@ -2,6 +2,8 @@
 layout: post
 title: Building a chat app with @flightjs Part 1 - Boarding Yeoman, Bower, Grunt (or Gulp), and Hogan
 permalink: flightjs-part-1
+category: Front end Ninja
+tags: [flightjs, yeoman, bower, grunt, build tools]
 ---
 
 This is the first post in a series on building a beautifully simple chat app with Flight.

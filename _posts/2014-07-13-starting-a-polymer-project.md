@@ -2,6 +2,8 @@
 layout: post
 title: Starting a Polymer Project
 permalink: starting-a-polymer-project
+category: Front end Ninja
+tags: [polymer, yeoman, bower]
 ---
 
 **Finding your way in the yo generator, seed-element, and boilerplate jungle**

@@ -2,6 +2,8 @@
 layout: post
 title: Building a chat app with @flightjs Part 3 - boarding Jasmine Spies
 permalink: flightjs-part-3
+category: Front end Ninja
+tags: [flightjs, jasmine, testing, promises]
 ---
 
 This is part three in my series on building [this chat app](http://flight-chat.herokuapp.com/) with Flight, check out [part 1 here](/flightjs-part-1) and [part 2 here](/flightjs-part-2). The source code is [available on github](https://github.com/stefanRitter/flight-chat).

@@ -2,6 +2,8 @@
 layout: post
 title: Building a chat app with @flightjs Part 2 - boarding RequireJS, Karma, and Jasmine
 permalink: flightjs-part-2
+category: Front end Ninja
+tags: [flightjs, karma, jasmine, testing, requirejs]
 ---
 
 This is part three in my series on building&nbsp;[this chat app](http://flight-chat.herokuapp.com/)&nbsp;with Flight, check out&nbsp;[part 1 here](/flightjs-part-1)&nbsp;and&nbsp;[part 3 here](/flightjs-part-3). The source code is&nbsp;[available on github](https://github.com/stefanRitter/flight-chat).
