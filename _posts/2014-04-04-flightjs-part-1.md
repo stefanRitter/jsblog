@@ -64,7 +64,7 @@ yo flight flight-chat --skip-install</pre>
 
 This will create our ‘flight-chat’ app in the flight-chat directory. Yeoman will ask you a few questions regarding Bootstrap and normalize.css, which in this case I negate, because I prefer to use my own styles using Sass with Compass. Notice the —skip-install flag on the last line, the flight generator uses Gulp as an alternative to Grunt so we’ll want to change the package.json a bit before running npm install.
 
-**<b>Setting up Grunt**</b>
+**Setting up Grunt**
 
 The first thing I want do is remove all Gulp dependencies from the newly created app, this includes the gulpfile.js file as well as the ‘gulp’ and ‘gulp-livereload’ entries in package.json. Then we can start adding Grunt, as well as a handful of Grunt tasks, which we’ll be using:
 
