@@ -16,7 +16,7 @@ Our Gruntfile.js has a Jshint task to lint Javascript, a Karma task to run tests
 
 [Check out the Gruntfile.js here](https://github.com/stefanRitter/flight-chat/blob/master/Gruntfile.js). That’s 85 lines of code. Compared to 62 for the [gulpfile.js](https://github.com/stefanRitter/flight-chat/blob/master/gulpfile.js). What’s nice about Gulp is that the setup follows a more node-style syntax. Here’s a look at the structure of Gruntfile:
 
-{% highlight js %}
+{% highlight js linenos %}
 module.exports = function(grunt) {
   'use strict';
 
@@ -55,7 +55,7 @@ module.exports = function(grunt) {
 
 And when you compare that to the structure of a gulpfile…
 
-{% highlight js %}
+{% highlight js linenos %}
 'use strict';
 
 var gulp = require('gulp'),
