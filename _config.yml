@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            JS Padawan
 tagline:          A JavaScript Masterclass
 url:              http://jspadawan.com
-paginate:         1
+paginate:         10
 author:
   name:           Stefan Ritter
   url:            http://stefanritter.com
