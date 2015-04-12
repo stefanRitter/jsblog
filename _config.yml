@@ -18,8 +18,8 @@ github:
   repo:           https://github.com/stefanRitter/jspadawan.com
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir:       _sass
+  style:          :compressed
 
 gems:
   - jekyll-sitemap
