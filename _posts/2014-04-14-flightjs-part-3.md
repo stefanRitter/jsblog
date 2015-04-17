@@ -2,7 +2,7 @@
 layout: post
 title: Building a chat app with @flightjs Part 3 - boarding Jasmine Spies
 permalink: flightjs-part-3
-category: Front end Ninja
+category: Front-end Ninja
 tags: [flightjs, jasmine, testing, promises]
 ---
 

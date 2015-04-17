@@ -2,7 +2,7 @@
 layout: post
 title: Building a chat app with @flightjs Part 2 - boarding RequireJS, Karma, and Jasmine
 permalink: flightjs-part-2
-category: Front end Ninja
+category: Front-end Ninja
 tags: [flightjs, karma, jasmine, testing, requirejs]
 ---
 

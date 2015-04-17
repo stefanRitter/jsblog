@@ -2,7 +2,7 @@
 layout: post
 title: Starting a Polymer Project
 permalink: starting-a-polymer-project
-category: Front end Ninja
+category: Front-end Ninja
 tags: [polymer, yeoman, bower]
 ---
 
