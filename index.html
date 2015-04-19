@@ -3,33 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  <a href="/beginning/" class="button red post">
-    <h1 class="post-title">
-      Stories for the Beginning
-      <br>
-      Front-end Padawan
-    </h1>
-  </a>
-
-  <a href="/advanced/" class="button blue post">
-    <h1 class="post-title">
-      Stories for the Advanced
-      <br>
-      Front-end Ninja
-    </h1>
-  </a>
-
-  <a href="/interviewing/" class="button gray post">
-    <h1 class="post-title">
-      Preparing for Front-end
-      <br>
-      Interview Questions
-    </h1>
-  </a>
-</div>
-
-<aside class="related">
+<div class="related">
   <h2>Latest Posts</h2>
   <ul class="related-posts">
     {% for post in site.posts limit:3 %}
@@ -43,4 +17,32 @@ title: Home
       </li>
     {% endfor %}
   </ul>
-</aside>
+</div>
+
+<div class="max-width">
+  <h2>Collections</h2>
+
+  <a href="/beginning/" class="button red margin-bottom">
+    <h1 class="post-title">
+      Stories for the Beginning
+      <br>
+      Front-end Padawan
+    </h1>
+  </a>
+
+  <a href="/advanced/" class="button blue margin-bottom">
+    <h1 class="post-title">
+      Stories for the Advanced
+      <br>
+      Front-end Ninja
+    </h1>
+  </a>
+
+  <a href="/interviewing/" class="button gray margin-bottom">
+    <h1 class="post-title">
+      Preparing for Front-end
+      <br>
+      Interview Questions
+    </h1>
+  </a>
+</div>

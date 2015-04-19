@@ -2,11 +2,11 @@
 layout: post
 title: Switching from Grunt to Gulp
 permalink: switching-from-grunt-to-gulp
-category: Front-end Padawan
+category: Front-end Ninja
 tags: [gulp, grunt, build tools]
 ---
 
-After publishing my [tutorial on writing a chat app with flight](http://blog.stefanritter.com/post/81767869139/building-a-chat-app-with-flight-part-1-boarding), I got a few requests on switching from Grunt to Gulp.
+After publishing my [tutorial on writing a chat app with flight](/flightjs-part-1), I got a few requests on switching from Grunt to Gulp.
 
 I decided to put them both in the repo to compare. In total the gulpfile is 23 lines shorter than the Gruntfile.
 
