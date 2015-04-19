@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            JS Padawan
-tagline:          Front end & JavaScript Masterclasses
+tagline:          A JavaScript Masterclass
 url:              http://jspadawan.com
 paginate:         10
 author:
