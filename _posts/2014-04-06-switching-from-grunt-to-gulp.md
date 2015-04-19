@@ -2,7 +2,7 @@
 layout: post
 title: Switching from Grunt to Gulp
 permalink: switching-from-grunt-to-gulp
-category: Front-end Ninja
+category: Front-end Padawan
 tags: [gulp, grunt, build tools]
 ---
 
