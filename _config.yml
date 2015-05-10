@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            JS Padawan
-tagline:          A JavaScript Blog
+tagline:          A Blog on JavaScript
 url:              http://jspadawan.com
 paginate:         10
 author:

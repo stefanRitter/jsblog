@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: Blog Home
 ---
 
 <div class="related">
-  <h2>Latest Blog Posts</h2>
+  <h2>Blog Posts</h2>
   <ul class="related-posts">
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts limit:20 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -17,10 +17,4 @@ title: Home
       </li>
     {% endfor %}
   </ul>
-
-  <div class="center">
-    <a href="/blog" class="button blue">
-      <h3>View all Blog Posts</h3>
-    </a>
-  </div>
 </div>
