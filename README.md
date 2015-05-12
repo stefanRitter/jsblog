@@ -1,4 +1,4 @@
-# New Blog
+# JS Padawan
 
 This will be my new blog...
 
