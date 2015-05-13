@@ -13,7 +13,7 @@ Over the past couple of years I’ve done a lot of reading and learning to spice
 
 2. [Effective JavaScript](http://effectivejs.com/) A great companion to Resig's book. Where Resig focuses more on functions, this book will give you the lowdown on the prototypical inheritance and the prototype chain.
 
-3. raganwald's [JavaScript Allongé](https://leanpub.com/javascript-allonge/) & [JavaScript Spessore](https://leanpub.com/javascript-spessore) These two are the Little Schemer of JavaScript. Reginald “raganwald” Braithwaite did a fantastic job in slowly but surely make me fall in love with the hard core functional programming capabilities of JavaScripts.
+3. raganwald's [JavaScript Allongé](https://leanpub.com/javascript-allonge/) & [JavaScript Spessore](https://leanpub.com/javascript-spessore) These two are the Little Schemer of JavaScript. Reginald “raganwald” Braithwaite did a fantastic job in making me fall in love with the hard core functional programming capabilities of JavaScripts.
 
 4. [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg) The ultimate history and coding lesson by the man who discovered the good parts of JavaScript. In this epic multi-hour lecture series Douglas Crockford thought me the historic context of where JS is coming from
 and why it's such a powerful language.
