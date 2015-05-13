@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Resources to become a JavaScript Pro in 2015
+title: Best Resources to Become a JavaScript Pro in 2015
 permalink: javascript-resources
 category: Front-end Ninja
 tags: [javascript]
@@ -32,7 +32,7 @@ These are my three top pics for learning node and server side JavaScript:
 - [Node.js The Right Way](https://pragprog.com/book/jwnode/node-js-the-right-way) This book is a gem of real world practical Node knowledge. It's a good followup to the basic tutorials from CodeSchool or NodeSchool.
 
 ## Performance
-[Steve Sounder’s books](http://stevesouders.com/) are still a great starting point into the basics of performative web development.
+[Steve Sounder’s books](http://stevesouders.com/) are still a great starting point for the basics of performative web development.
 Also make sure to checkout the videos from the annual [Velocity conference](http://velocityconf.com/) (best found on youtube), which is organized by Steve and dedicated to web performance.
 
 Hands down the best overview on performance, critical render path, and website optimization can be found in these two Udacity courses:
