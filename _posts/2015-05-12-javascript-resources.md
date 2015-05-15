@@ -48,7 +48,7 @@ There are thousands of Angular tutorials and books out there. It’s a very popu
 The book is co-authored by Brad Green, who leads the Angular team at Google. And it shows. This book will teach you Angular how it was intended to be used, starting you off with testing your app properly right from the start.
 
 ## ReactJS
-React is a must learn. If you’re familiar with any front end MVC framework, React will feel like a breeze to learn. There are basically only to main concepts to understand:
+React is a must learn. If you’re familiar with any front end MVC framework, React will feel like a breeze to learn. There are basically only two main concepts to understand:
 
 1. everything in React is a component
 2. some components have state
