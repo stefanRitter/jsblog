@@ -9,31 +9,31 @@ tags: [javascript]
 Over the past couple of years I’ve done a lot of reading and learning to spice up my JS skills. Although I know there’s still and always more to learn, if I were to go back in time to advice my past self on what to focus on this is what I'd recommend. I believe this to be a run down of the best resources to take you from a beginning jQuery-reliant JavaScript developer towards becoming a JS pro. Hit me up on [Twitter](https://twitter.com/stefanritter) if you'd like to add to the list or correct me on my choices.
 
 ## Vanilla JavaScript
-1. [John Resig's Tricks of the JavaScript Ninja](http://jsninja.com/) Amazing book. Should be on every developer's shelf. Period.
+1. [John Resig's Tricks of the JavaScript Ninja](http://jsninja.com/){:target='_blank'} Amazing book. Should be on every developer's shelf. Period.
 
-2. [Effective JavaScript](http://effectivejs.com/) A great companion to Resig's book. Where Resig focuses more on functions, this book will give you the lowdown on the prototypical inheritance and the prototype chain.
+2. [Effective JavaScript](http://effectivejs.com/){:target='_blank'} A great companion to Resig's book. Where Resig focuses more on functions, this book will give you the lowdown on the prototypical inheritance and the prototype chain.
 
-3. raganwald's [JavaScript Allongé](https://leanpub.com/javascript-allonge/) & [JavaScript Spessore](https://leanpub.com/javascript-spessore) These two are the Little Schemer of JavaScript. Reginald “raganwald” Braithwaite did a fantastic job in making me fall in love with the hard core functional programming capabilities of JavaScripts.
+3. raganwald's [JavaScript Allongé](https://leanpub.com/javascript-allonge/){:target='_blank'} & [JavaScript Spessore](https://leanpub.com/javascript-spessore){:target='_blank'} These two are the Little Schemer of JavaScript. Reginald “raganwald” Braithwaite did a fantastic job in making me fall in love with the hard core functional programming capabilities of JavaScripts.
 
-4. [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg) The ultimate history and coding lesson by the man who discovered the good parts of JavaScript. In this epic multi-hour lecture series Douglas Crockford thought me the historic context of where JS is coming from
+4. [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg){:target='_blank'} The ultimate history and coding lesson by the man who discovered the good parts of JavaScript. In this epic multi-hour lecture series Douglas Crockford thought me the historic context of where JS is coming from
 and why it's such a powerful language.
 
-5. [Oh my JS](https://leanpub.com/ohmyjs) This is a genius collection of the best JS articles on the web. Put together by Azat Mardan, it's a great intro to Angular's dependency injection and includes the article that brought about Promises as an ES6 feature. It's a free PDF, sadly Azat took it offline for some reason - but you can easily pull it with a torrent or some searching.
+5. [Oh my JS](/public/pdf/ohmyjs.pdf){:target='_blank'} This is a genius collection of the best JS articles on the web. Put together by Azat Mardan, it's a great intro to Angular's dependency injection and includes the article that brought about Promises as an ES6 feature.
 
-6. Answering the [HTML5 boilerplate front-end interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) This repo is a collective effort to collect the best front-end interview questions. Going through them one by one and making sure I can answer them all with certainty was one of the best exercises I've done.
+6. Answering the [HTML5 boilerplate front-end interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions){:target='_blank'} This repo is a collective effort to collect the best front-end interview questions. Going through them one by one and making sure I can answer them all with certainty was one of the best exercises I've done.
 
 ## Node / IO.js
 These are my three top pics for learning node and server side JavaScript:
 
-- [CodeSchool’s Node course](https://www.codeschool.com/courses/real-time-web-with-node-js) It's not free, but worth every penny. It's a really great intro to Node, asynchronous programming, and also Socket.io. And now that they've been acquired by PluralSight you get access to their entire library.
+- [CodeSchool’s Node course](https://www.codeschool.com/courses/real-time-web-with-node-js){:target='_blank'} It's not free, but worth every penny. It's a really great intro to Node, asynchronous programming, and also Socket.io. And now that they've been acquired by PluralSight you get access to their entire library.
 
-- [NodeSchool.io](http://nodeschool.io/) The command line tutorials are a charm, especially the one on streaming will do a great job in explaining this powerful concept.
+- [NodeSchool.io](http://nodeschool.io/){:target='_blank'} The command line tutorials are a charm, especially the one on streaming will do a great job in explaining this powerful concept.
 
-- [Node.js The Right Way](https://pragprog.com/book/jwnode/node-js-the-right-way) This book is a gem of real world practical Node knowledge. It's a good followup to the basic tutorials from CodeSchool or NodeSchool.
+- [Node.js The Right Way](https://pragprog.com/book/jwnode/node-js-the-right-way){:target='_blank'} This book is a gem of real world practical Node knowledge. It's a good followup to the basic tutorials from CodeSchool or NodeSchool.
 
 ## Performance
-[Steve Sounder’s books](http://stevesouders.com/) are still a great starting point for the basics of performative web development.
-Also make sure to checkout the videos from the annual [Velocity conference](http://velocityconf.com/) (best found on youtube), which is organized by Steve and dedicated to web performance.
+[Steve Sounder’s books](http://stevesouders.com/){:target='_blank'} are still a great starting point for the basics of performative web development.
+Also make sure to checkout the videos from the annual [Velocity conference](http://velocityconf.com/){:target='_blank'} (best found on youtube), which is organized by Steve and dedicated to web performance.
 
 Hands down the best overview on performance, critical render path, and website optimization can be found in these two Udacity courses:
 
