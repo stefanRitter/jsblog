@@ -1,0 +1,116 @@
+---
+layout: default
+title: Home
+---
+
+<div class="intro">
+  <h1><em>JS Padawan's</em><br>Front-end Programming<br>Masterclass</h1>
+  <h4>3 Months | 12 Coding Challenges | 24hrs Personal Feedback</h4>
+
+  <p class="margin-top margin-bottom padding">
+    Are you ready to interview for the best tech companies and startups?
+    <br>
+    <br>
+    Master new skills with advanced front end coding challenges,
+    <br>
+    get personal feedback on your solutions and take
+    <br>
+    your front-end skills to the next level.
+  </p>
+
+  <p>
+    $50 / month + first week free
+    <br>
+    <a href="/join" class="button red margin-top">Join Masterclass</a>
+    <br>
+    <span class="small">ONE WEEK FREE TRIAL</span>
+  </p>
+</div>
+
+<div class="curriculum">
+  <h2>Summary &amp; About me</h2>
+  <p>This is the course I wish I had when I was just a beginning front-end engineer preparing for my first big interviews!</p>
+  <p>Programming you learn by doing, and you get better at it by getting feedback from more advanced engineers.</p>
+  <p>
+    That is why this course is based on <strong>real world coding challenges</strong>,
+    which you solve once a week and at your own pace.
+  </p>
+  <p>
+    Every challenge you submit is followed by a <strong>personal code review</strong> from my side.
+    This will help you validate your solution and it will also help you become a better programmer along the way.
+  </p>
+  <p>
+    <strong>Who am I?</strong>
+    <br>
+    I’m lead front-end developer at a startup in London with over half a million page views per month.
+    I've sat on both sides of the interview table many times. And I have experience in teaching programming to absolute beginners and mentoring experienced programmers alike.
+  </p>
+  <p><em>
+    You can follow me on <a href="https://twitter.com/stefanritter">Twitter</a> or
+    <a href="https://github.com/stefanRitter">Github</a> and make sure to checkout
+    <a href="https://www.youtube.com/watch?v=k_7zdqz01sk">my video for Google Developers on YouTube</a>.
+  </em></p>
+</div>
+
+<div class="curriculum">
+  <h2>Prerequisites</h2>
+  <p>This is not an introduction to front-end or JavaScript programming.</p>
+  <p>
+    You are on the right level for this course if you can answer most of
+    <a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions">the questions from this html5-boilerplate repo</a>
+    comfortably.
+  </p>
+  <p>
+    If you had problems answering the questions or you're generally looking to improve your skills check out my post on
+    <a href="/javascript-resources" target="_blank">the best resources to become a JS Pro</a>.
+  </p>
+  <p>That said the challenges will be done at your own pace, so learning along the way is definitely one of the take aways from this course.</p>
+</div>
+
+<div class="curriculum">
+  <h2>Course Structure</h2>
+  <p>Below is a week by week breakdown of the topics we'll be covering in the coding challenges:</p>
+  <ul>
+    <li><span>WEEK 01:</span> Vanilla JavaScript</li>
+    <li><span>WEEK 02:</span> Functional Programming</li>
+    <li><span>WEEK 03:</span> Grid Systems - CSS</li>
+    <li><span>WEEK 04:</span> Grid Systems - JS</li>
+    <li><span>WEEK 05:</span> AJAX + Promises</li>
+    <li><span>WEEK 06:</span> HTTP + Node.js</li>
+    <li><span>WEEK 07:</span> RegEx + Node.js</li>
+    <li><span>WEEK 08:</span> Algorithms + Data Structures</li>
+    <li><span>WEEK 09:</span> Algorithms + Runtime</li>
+    <li><span>WEEK 10:</span> Optimization + Performance</li>
+    <li><span>WEEK 11:</span> Application Development + Testing</li>
+    <li><span>WEEK 12:</span> Advanced Application Development</li>
+  </ul>
+
+  <p class="margin-top center">
+    <strong>$50 / month + first week free</strong>
+    <br>
+    <a href="/join" class="button red margin-top">Join Masterclass</a>
+    <br>
+    <span class="small">ONE WEEK FREE TRIAL</span>
+  </p>
+</div>
+
+<div class="related">
+  <h2>Latest Blog Posts</h2>
+  <p>Newest posts from my blog:</p>
+  <ul class="related-posts">
+    {% for post in site.posts limit:4 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="center">
+    <a href="/blog" class="button blue">View all Blog Posts</a>
+  </p>
+</div>
