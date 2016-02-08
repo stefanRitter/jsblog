@@ -10,13 +10,13 @@ This is the first post in a series on building a beautifully simple chat app wit
 
 The app will have 3 main views:
 
-<img src="/public/img/flightjs1.png" alt="login view" style="width:100%;max-width:500px;" />
+<img src="/blog/assets/img/flightjs1.png" alt="login view" style="width:100%;max-width:500px;" />
 login view
 
-<img src="/public/img/flightjs2.png" alt="conversation view" style="width:100%;max-width:500px;" />
+<img src="/blog/assets/img/flightjs2.png" alt="conversation view" style="width:100%;max-width:500px;" />
 conversations view (wait 3 seconds for the server to ping you)
 
-<img src="/public/img/flightjs3.png" alt="chat view" style="width:100%;max-width:500px;" />
+<img src="/blog/assets/img/flightjs3.png" alt="chat view" style="width:100%;max-width:500px;" />
 chat view
 
 Check out my previous story to [get started with Flight](https://medium.com/@stefanritter/a-flight-js-hello-world-97fc4ae3072d). In these posts we will take Flight one extra passenger at a time. At the end of this tutorial I hope to have talked you through how to create this application with reusable Flight components on the front-end.

@@ -18,7 +18,7 @@ Over the past couple of years I’ve done a lot of reading and learning to spice
 4. [Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg){:target='_blank'} The ultimate history and coding lesson by the man who discovered the good parts of JavaScript. In this epic multi-hour lecture series Douglas Crockford thought me the historic context of where JS is coming from
 and why it's such a powerful language.
 
-5. [Oh my JS](/public/pdf/ohmyjs.pdf){:target='_blank'} This is a genius collection of the best JS articles on the web. Put together by Azat Mardan, it's a great intro to Angular's dependency injection and includes the article that brought about Promises as an ES6 feature.
+5. [Oh my JS](/blog/assets/pdf/ohmyjs.pdf){:target='_blank'} This is a genius collection of the best JS articles on the web. Put together by Azat Mardan, it's a great intro to Angular's dependency injection and includes the article that brought about Promises as an ES6 feature.
 
 6. Answering the [HTML5 boilerplate front-end interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions){:target='_blank'} This repo is a collective effort to collect the best front-end interview questions. Going through them one by one and making sure I can answer them all with certainty was one of the best exercises I've done.
 

@@ -8,7 +8,7 @@ tags: [polymer, yeoman, bower]
 
 **Finding your way in the yo generator, seed-element, and boilerplate jungle**
 
-<img src="/public/img/polymer.gif" alt="Polymer" style="width:100%;max-width:464px;" />
+<img src="/blog/assets/img/polymer.gif" alt="Polymer" style="width:100%;max-width:464px;" />
 
 When I was about to start with my first Polymer app, I was faced with the typical questions: How do I structure the code? Where would my components go? Where is the app entry point, and what Grunt tasks best to add to it?
 
