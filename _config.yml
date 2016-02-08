@@ -3,10 +3,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            JS Padawan
-tagline:          A Blog on JavaScript
-url:              http://jspadawan.com
-paginate:         10
+title:            React.careers
+tagline:          Blogging on React & JavaScript
+url:              http://react.careers/
+paginate:         100
 author:
   name:           Stefan Ritter
   url:            http://stefanritter.com

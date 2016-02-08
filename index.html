@@ -1,13 +1,11 @@
 ---
 layout: page
-title: JS Padawan
+title: Blog Home
 ---
 
 <div class="related">
-  <h2>Latest Blog Posts</h2>
-  <p>Newest posts from my blog:</p>
   <ul class="related-posts">
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts limit:100 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -18,8 +16,4 @@ title: JS Padawan
       </li>
     {% endfor %}
   </ul>
-
-  <p class="center">
-    <a href="/blog" class="button blue">View all Blog Posts</a>
-  </p>
 </div>
