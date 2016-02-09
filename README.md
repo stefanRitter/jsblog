@@ -1,6 +1,4 @@
-# JS Padawan
-
-This will be my new blog...
+# JS Blog
 
 based on [poole](http://getpoole.com/)
 
